@@ -1,0 +1,10 @@
+{
+  "silhouette_train_mean": 0.29091028595055646,
+  "silhouette_train_std": 0.011972142985983687,
+  "silhouette_test_mean": 0.28078450834657787,
+  "silhouette_test_std": 0.04491630263421701,
+  "davies_bouldin_train_mean": 1.2528331577512781,
+  "davies_bouldin_train_std": 0.03328310459987015,
+  "davies_bouldin_test_mean": 1.2182896231645581,
+  "davies_bouldin_test_std": 0.12572469947548862
+}

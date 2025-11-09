@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "Dockerfile", "use": "@vercel/docker" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/" }
+  ],
+  "env": {
+    "PYTHONUNBUFFERED": "1",
+    "PORT": "8501"
+  }
+}
